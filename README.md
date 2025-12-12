@@ -1,5 +1,6 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 12.12.2025
+## reg no: 25019029
 
 ## AIM
 To develop a website to display details about the places around my house.
